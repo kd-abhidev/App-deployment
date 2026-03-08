@@ -13,6 +13,7 @@
 		<sonar.host.url>http://18.181.164.81:9000/</sonar.host.url>
 
 	</properties>
+
 	<dependencies>
 
 		
@@ -44,6 +45,7 @@
 		<url>http://repo1.maven.org/maven2</url>
 	    </pluginRepository>
 	</pluginRepositories>
+
 	<build>
            <plugins>
         	<plugin>
@@ -53,6 +55,5 @@
                 </plugin>
 	   </plugins>
 	</build>
-
 	
 </project>
